@@ -1,1 +1,29 @@
 # ppbiToWork
+
+<html>
+	
+<style>
+	
+		body{
+			overflow:hidden;
+			
+		}
+		
+		.ajuste{
+		margin-top:-9px;
+		margin-left:-15px;
+		
+		
+		}
+	
+	
+</style>
+	
+
+	<body>
+	
+	<iframe class="ajuste" title="dash Equipes New" width="102%" height="112%" src="https://app.powerbi.com/view?r=eyJrIjoiNDg0NWZiNWUtMDVhZi00OTBhLWFkZjctMWI0Mzk5NWVkYzUzIiwidCI6IjY2M2U0NmZiLWRjOGEtNDFjZC04NjIwLTUzYjFmYzY0Njc0NCJ9" frameborder="0" allowFullScreen="true"></iframe>
+	
+	</body>
+	
+</html>
